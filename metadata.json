@@ -1,0 +1,8 @@
+{
+  "name": "Soluciones en Energía Solar - Agustín Codazzi",
+  "description": "Energía solar fotovoltaica, bombas sumergibles y almacén de suministros eléctricos en Agustín Codazzi, Cesar. Cotizador inteligente y atención directa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
